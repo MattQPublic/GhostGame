@@ -11,9 +11,9 @@ The rest was written by Matt Siegel.
 Some of the media (sound and images) are copyrighted, and should be covered by "fair use" because this was a class project.
 If you are the copyright holder of any of the media in this game, and want it removed, send me a message, and I'll remove it.
 
-If you want to rebrand this game with some other identity, simply replace all the media within, and change the filename arrays.
+If you want to rebrand this game with some other identity, simply fork the project, replace all the media within, and change the filename arrays.
 
-Under no circuamstances can this app be sold for money (see copyright notice above).
+Under no circumstances can this app be sold for money (see copyright notice above).
 Educational purposes only!
 
 Have fun.  Love Ghost.  Buy their albums!
